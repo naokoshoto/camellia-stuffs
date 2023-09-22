@@ -26,8 +26,7 @@ _Device looks may vary depends on series & region._
 ## Links
 
 - ADB Drivers
-- Unlock Bootloader
-- Force Unlock Bootloader (Not Recomend)
+- [Unlock Bootloader](https://github.com/naokoshoto/camellia-stuffs/blob/main/guides/unlock_bootloader.md)
 - Flashing Guide
 - Magisk Instalation on Stock MIUI
 - Installing Custom ROM
